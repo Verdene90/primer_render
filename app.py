@@ -1,4 +1,1 @@
-import streamlit as st
-
-st.header('Lanzar una moneda')
-st.write('Esta aplicación aún no es funcional. En construcción.')
+# -*- coding: utf-8 -*-import streamlit as stst.header('Lanzar una moneda')st.write('Esta aplicación aún no es funcional. En construcción.')
